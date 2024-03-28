@@ -130,3 +130,6 @@ dmypy.json
 
 #VSCode
 .vscode/
+
+# OPENAI SECRET KEY
+predictors/config.py
