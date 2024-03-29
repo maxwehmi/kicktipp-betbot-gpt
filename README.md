@@ -2,6 +2,11 @@
 
 [kicktipp-img]: https://www.kicktipp.de/assets/img/cb1059167120/assets/img/illu/startseite.png "Kicktipp"
 
+Fork motivation
+===============
+
+The original README follows underneath. This fork adds a new predictor which uses ChatGPT to predict the outcomes of the games. 
+
 kicktipp-betbot
 ===============
 
